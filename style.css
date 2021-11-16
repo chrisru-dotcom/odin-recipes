@@ -1,0 +1,47 @@
+h1 {
+    color: rgb(47, 47, 226);
+    background: #ddd;
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 400px;
+    margin: 2rem auto;
+    font-family: "Open Sans", sans-serif;
+    border: 2px red;
+}
+
+
+}
+* {
+    background-color: wheat;
+}
+.body {
+    font-size: xx-large;
+}
+.ul1 {
+    font-size: xx-large;
+}
+# li {
+    font-weight: 500;
+}
+* h2 {
+    color: yellowgreen;
+}
+* {
+    border: 2px darkslategray;
+}
+.h2_Reyka {
+    box-sizing: border-box;
+    color: rgb(16, 109, 28);
+    font-size: xx-large;
+    background: #ddd;
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 400px;
+    margin: 2rem auto;
+    font-family: "Open Sans", sans-serif;
+    border: darkgreen;
+}
+.body {
+    box-sizing: 5px;
+    cornflowerblue;
+}
